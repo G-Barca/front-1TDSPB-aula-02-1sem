@@ -13,7 +13,7 @@ Front-End-Design Engineering - FIAP
 - git push
 ~~~
 
-## Partidno para um conteúdo mais avançado:
+## Partindo para um conteúdo mais avançado:
 - Manipulando Branchs
 ~~~
 - git checkout -b
